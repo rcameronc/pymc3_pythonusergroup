@@ -1,5 +1,6 @@
-Pymc3_pyusergroup
-Pymcd example notebook for Columbia python usergroup.  Notebooks modified from
+# Pymc3_pyusergroup
+
+Pymc3 example notebook for Columbia python usergroup.  Notebooks modified from
 https://github.com/pymc-devs/pymc3/tree/master/docs/source/notebooks
 
 ### Install Instructions
