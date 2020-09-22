@@ -1,0 +1,27 @@
+name: pymc3
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - xarray
+  - numpy
+  - pandas
+  - matplotlib
+  - jupyterlab
+  - seaborn
+  - mkl-service
+    #  - theano
+    # - pymc3
+    #   - arviz=0.8.3
+  - arviz
+  - rise
+  - pip
+  - pip:
+    - pymc3
+    - arviz==0.8.3
+    - watermark
+
+
+ #  - pip:
+
+

@@ -1,0 +1,25 @@
+name: pymc3
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  #  - theano
+#   - arviz
+  - xarray
+  - arviz
+  - numpy
+  - pandas
+  - matplotlib
+  - jupyterlab
+  - seaborn
+  - mkl-service
+  - pymc3
+    #   - rise
+    # - pip
+
+
+ #  - theano
+
+ #  - pip:
+
+
