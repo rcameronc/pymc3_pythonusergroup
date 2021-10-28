@@ -1,4 +1,4 @@
-name: pymc3_new
+name: pymc3
 channels:
   - conda-forge
   - defaults
