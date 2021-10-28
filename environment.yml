@@ -1,24 +1,26 @@
-name: pymc3
+name: pymc3_new
 channels:
   - conda-forge
   - defaults
 dependencies:
+  - python=3.9
   - xarray
-  - numpy
+    # - numpy
   - pandas
   - matplotlib
   - jupyterlab
   - seaborn
   - mkl-service
+  - mkl
+  - pymc3
+  - theano-pymc
+  - arviz
     #  - theano
     # - pymc3
     #   - arviz=0.8.3
-  - arviz
   - rise
   - pip
   - pip:
-    - pymc3
-    - arviz==0.8.3
     - watermark
 
 
